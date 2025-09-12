@@ -86,7 +86,7 @@ img {
     .nav-links {
         display: none;
         position: absolute;
-        top: 80px;
+        top: 120px; /* Adjusted to account for full toolbar height */
         left: 0;
         width: 100%;
         background-color: #163a96;
@@ -117,4 +117,3 @@ img {
         margin-right: auto;
     }
 }
-
