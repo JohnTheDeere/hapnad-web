@@ -10,7 +10,7 @@ This project is a simple, static website built with HTML, CSS, and JavaScript. I
 
 - `index.html`: The main landing page (you may want to rename one of your existing pages to this).
 - `about_us.html`: The page describing our company's story.
-- `laser_engravings.html`: The page showcasing our services.
+- `index.html`: The page showcasing our services.
 - `nav.html`: A reusable component for the site's navigation bar.
 - `assets/`: A directory for all static assets.
   - `css/`: Contains all the stylesheets.
